@@ -1,21 +1,22 @@
-# PasteBin Clone
+# 📁 PasteBin Clone
 
-A modern Pastebin clone built with React, Redux, and Tailwind CSS. Create, view, edit, delete, and search code/text pastes with a clean and responsive interface.
+A modern Pastebin clone built with React, Redux Toolkit, and Tailwind CSS.  
+Create, view, edit, delete, and search text/code pastes with a clean, responsive UI.
 
 ---
 
 ## ✨ Features
 
 - Create new pastes with title and content
-- Edit existing pastes easily
-- View individual pastes in a dedicated page
+- Edit existing pastes
+- View individual pastes
 - Delete pastes permanently
 - Copy paste content to clipboard
 - Search pastes by title
-- Persistent storage using localStorage
+- Persistent storage using `localStorage`
 - Responsive design for all devices
-- Toast notifications for user actions
-- Clean, macOS-inspired UI design
+- Toast notifications for actions
+- Clean macOS-inspired UI
 
 ---
 
@@ -33,10 +34,12 @@ A modern Pastebin clone built with React, Redux, and Tailwind CSS. Create, view,
 
 ## 🚀 Installation & Setup
 
-git clone <your-repo-url>
+```bash
+git clone https://github.com/BSSE24040/PasteApp
 cd pastebin-clone
 npm install
 npm run dev
+```
 
 Then open:
 
@@ -102,7 +105,7 @@ pastes
 - macOS-style editor UI
 - Smooth hover effects
 - Responsive grid layout
-- Clean modern design
+- Modern clean design
 - Toast notifications
 
 ---
@@ -120,10 +123,10 @@ pastes
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first.
+Pull requests are welcome. For major changes, open an issue first.
 
 ---
 
 ## 📄 License
 
-This project is open source under the MIT License.
+This project is licensed under the MIT License.
